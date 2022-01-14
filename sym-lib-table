@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 112-rescue)(type Legacy)(uri ${KIPRJMOD}/112-rescue.lib)(options "")(descr ""))
+)
